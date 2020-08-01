@@ -1,6 +1,6 @@
 # STM32F
 
-Use the Nucleo-
+Use Arduino compatible Nucleo-F446RE and STM32CubeIDE.
 
 ## 0. Setup
 
