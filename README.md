@@ -5,7 +5,7 @@ Use the Nucleo-
 ## 0. Setup
 
 * Download and Install [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
-* Create new STM32 project using board selector = NUCLEO-F446RE (In my case)
+* Create new STM32 project using board selector = `NUCLEO-F446RE` (In my case)
 * Build Project (it should compile)
 
 ## 1. Hello World
